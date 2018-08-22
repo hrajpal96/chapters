@@ -1,0 +1,25 @@
+{
+  "name": "school-of-ai-chapter-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"sh run.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isamuelson/school-of-ai-chapter-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isamuelson/school-of-ai-chapter-page/issues"
+  },
+  "homepage": "https://github.com/isamuelson/school-of-ai-chapter-page#readme"
+}

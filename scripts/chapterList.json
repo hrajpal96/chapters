@@ -1634,6 +1634,19 @@
       }
    },
    {
+      "index": 385,
+      "country": "Canada",
+      "city": "Mississauga",
+      "lat": 43.5890,
+      "lng": 79.6441,
+      "deans": [
+         "Hammad Shaikh"
+      ],
+      "social_media": {
+         "facebook": "https://www.facebook.com/groups/MississaugaSchoolofAI/"
+      }
+   },
+   {
       "index": 129,
       "country": "India",
       "city": "Mumbai",
